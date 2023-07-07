@@ -1,0 +1,405 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "8e892595-012a-4831-a351-6ff657650538": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18594904899865__8e892595-012a-4831-a351-6ff657650538-1681251148df756b4e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-04-14_at_3.19.37_PM.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "IMPORTANT INFORMATION & INSTRUCTIONS",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--18594904899865__8e892595-012a-4831-a351-6ff657650538-1681251148df756b4e-0"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "transition_type": "sweep",
+        "autoplay": false,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "39cecc42-dba8-40e8-9afd-04f546fcdf6c": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 26px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>Read these instructions carefully before use. Familiarize yourself with the appliance before connecting it to a gas container.<\/h2><p>The instructions outlined below should be read carefully before using the appliance, and then keep it for further reference. All the instructions provided are needed to use the appliance properly. Keep the instructions easily available for reference to avoid risks. Manufacturer accepts no responsibility for any damage as a result of improper use of the RocketFire™ torch or any modiﬁcations made to the RocketFire™ torch or the attached fuel container.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2e91f220-d1b6-4c0b-a679-7a887def45a4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/PF_Part_Description.jpg",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "boxed",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "2b222412-090f-445d-999c-83d65d41d33b": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}",
+        "h3 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>1. GAS<\/h2><p>This appliance is used with a pressurized gas container (Propane or MAP\/Pro fuel suggested) fitted with a screw valve. This appliance shall only be used with screw or threaded type Map\/Pro or Propane canister that comply to the CGA 600 canister standard. It may be hazardous to attempt to use other types of gas containers.<\/p><h2>2. CHANGING THE GAS CONTAINER<\/h2><h3>2.1 FITTING THE GAS CONTAINER<\/h3><p>Turn the Flow Control Regulator Knob (4) clockwise to turn the appliance off. Hold torch and gas cylinder upright. Turn the gas cylinder counter-clockwise into the torch valve body until it’s hand tightly secured. Please see Fig.1 illustration for reference. Do not force it too tight. Check connection to make sure it’s tight and inspect for leaks.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d8b2604d-600b-4ea8-8b94-6e95f2b80ec5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/RF_Figure-drawings.jpg",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "boxed",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "6c041de8-a30c-4b07-b6cd-00703ae2bd43": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>2.2  REMOVING THE GAS CONTAINER<\/h2><p>Make sure the gas supply is shut-off by turning the Flow Control Regulator Knob clockwise (4) to off. Then hold the gas container in a vertical position and unscrew it clockwise to detach it from the appliance (Fig. 2).<\/p><p>• Check that fuel supply and appliance is extinguished before disconnecting the gas container.<\/p><p>• Check the seals before connecting a new gas container to the appliance.<\/p><p>• Replace the gas container outdoors and away from people, pets, structures and vegetation.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f4262e15-2f23-443c-9c62-24bb40e41d75": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>GAS SAFETY MEASURES<\/h2><p>Check the Valve Seal O-Ring (9) inside Gas Valve (1) before connecting a new gas container to the appliance. Gas containers should be fitted or removed in well-ventilated areas, preferably in the open air, away from flammable substances or materials and incandescent sources of heat (such as flames, lighted cigarettes, hotplates, barbeques, grills etc.), and <strong>AWAY FROM OTHER PEOPLE AND ANIMALS<\/strong>. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f65526",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d3c4797e-aed6-442f-83a7-46b8b6eedb80": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}",
+        "h3 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>3. OPERATING INSTRUCTIONS<\/h2><h3>3.1 LIGHTING<\/h3><p>Turn the Flow Control Regulator Knob (4) in a counter-clockwise rotation. Push the Ignitor Trigger Button (6) and the flame will light.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7855fdcc-ff29-4659-beee-49ed21d6169c": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>CAUTION<\/h2><p>The appliance must be pointed downward (max 45°) all the time and <strong>AWAY FROM OTHER PEOPLE AND ANIMALS<\/strong>.<\/p><p>The phenomenon of flaring may occur during the warm up period or if the appliance is shaken or used upside down.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f65526",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d2b2e8cd-e5ee-4d92-b6c1-a2609b04fa2c": {
+      "type": "rich-text",
+      "custom_css": [
+        "h3 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>3.2  USING THE CONTINOUS FLAME FEATURE<\/h3><p>To engage continuous flame, press and hold the Ignition Trigger Button (6) and push the Continuous Flame Lock Button (5), as seen in Fig.3. Push the Ignition Trigger Button (6) again to deactivate the continuous flame feature.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a16b92dd-b7f6-401f-a274-fa8bc3e52f15": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>CAUTION<\/h2><p><strong>Use extreme caution when locking in the continuous flame function<\/strong>, as flame will burn continuously and will not turn off until the Continuous Flame Lock Button (5) is MANUALLY disengaged or when the gas container is empty.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f65526",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f4bf30f2-650e-43f7-a088-9422eeac2dcb": {
+      "type": "rich-text",
+      "custom_css": [
+        "h3 {font-family: Fjalla One; font-size: 30px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>3.3 ADJUSTMENT<\/h3><p>Flame intensity may be adjusted by turning the Flow Control Regulator Knob (4) clockwise or counter-clockwise.<\/p><h3>3.4 TURNING OFF<\/h3><p>Turn the Flow Control Regulator Knob (4) clockwise until the flame is completely distinguished. Don't left it unattended.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a1516a51-b69c-4311-9bb6-038648fb8dff": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>CAUTION<\/h2><p><strong>IMPORTANT!<\/strong> The burning flame will stay lit for a short time after turning the appliance off, until the remaining gas in the handle unit is vented or burned.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f65526",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "eb3cc24e-5723-4d36-a80a-b7b7cf5b349c": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>4. STORAGE<\/h2><p>Separate the torch from gas container when not in use (Fig.2). Keep the appliance and gas cylinder in a cool, dry and well ventilated storage place. Confirm the Valve Seal O-Ring (9) is fixed to the torch. The seal is not replaceable. If missing, do not use.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16288a10-234f-42a7-b9d0-8663f38b4900": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>CAUTION<\/h2><p>Keep the gas container away from direct sunlight. Never expose the container to a temperature over 120°F (50°C).<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f65526",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "5a4db281-e9b6-4aae-8fc3-708c83d721aa": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}",
+        "h3 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>5. TROUBLE SHOOTING<\/h2><p>Do not carry out any maintenance or repair work. Bring the appliance to a specialized repair shop for attention if a problem arises. Tampering with the device can result in serious injury. <\/p><h3>5.1 GAS LEAKS<\/h3><p>If there is a leak in your appliance (smell of gas), take it outside immediately into a well ventilated, flame free location where the leak may be detected and stopped. If you wish to check for leaks on your appliance, do it outside. Do not try to detect leaks using a flame. Instead use soapy water.<\/p><h3>5.2 CHECK VALVE SEAL O-RING INSIDE GAS VALVE<\/h3><p>Check Valve Seal O-Ring (9) before use. Do not use the appliance if the O-ring looks worn, loose or cracked. Do not use an appliance which is leaking, damaged or does not operate properly. Carefully read gas container warning labeling before attaching it to the appliance. Unscrew the gas container from the appliance (Fig 2) as soon as you suspect a gas leak or damaged Valve Seal O-ring.<\/p><h3>5.3 LOW-OXYGEN ENVIRONMENT<\/h3><p>The Rocketfire™ will not perform properly in a low-oxygen environment, such as in a deep grill or barbeque that is not vented. For best performance, open all air vents on grill or fire-pit before lighting.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "4d44f8f6-5774-448e-b794-d60c782da2e8": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 40px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h2>WARNING<\/h2><p>Keep young children away from the appliance and store the appliance out of children’s reach.<\/p><p>This appliance must be used OUTDOORS ONLY, away from flammable substances and materials.<\/p><p>Always point the appliance downwards to avoid the flame flaring. If flaring occurs, move the gas container to the upright position for a few seconds.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8e892595-012a-4831-a351-6ff657650538",
+    "39cecc42-dba8-40e8-9afd-04f546fcdf6c",
+    "2e91f220-d1b6-4c0b-a679-7a887def45a4",
+    "2b222412-090f-445d-999c-83d65d41d33b",
+    "d8b2604d-600b-4ea8-8b94-6e95f2b80ec5",
+    "6c041de8-a30c-4b07-b6cd-00703ae2bd43",
+    "f4262e15-2f23-443c-9c62-24bb40e41d75",
+    "d3c4797e-aed6-442f-83a7-46b8b6eedb80",
+    "7855fdcc-ff29-4659-beee-49ed21d6169c",
+    "d2b2e8cd-e5ee-4d92-b6c1-a2609b04fa2c",
+    "a16b92dd-b7f6-401f-a274-fa8bc3e52f15",
+    "f4bf30f2-650e-43f7-a088-9422eeac2dcb",
+    "a1516a51-b69c-4311-9bb6-038648fb8dff",
+    "eb3cc24e-5723-4d36-a80a-b7b7cf5b349c",
+    "16288a10-234f-42a7-b9d0-8663f38b4900",
+    "5a4db281-e9b6-4aae-8fc3-708c83d721aa",
+    "4d44f8f6-5774-448e-b794-d60c782da2e8"
+  ]
+}

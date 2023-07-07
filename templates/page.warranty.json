@@ -1,0 +1,109 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "2f04775f-b2b6-4e3b-805e-56752a807e16": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18595161112857__2f04775f-b2b6-4e3b-805e-56752a807e16-1681251148df756b4e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-kelly-2509093.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "PRODUCT WARRANTY REGISTRATION",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--18595161112857__2f04775f-b2b6-4e3b-805e-56752a807e16-1681251148df756b4e-0"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "fe5c5256-78c7-4e10-878f-92cb98ebf94f": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "THANK YOU FOR PURCHASING YOUR ROCKETFIRE™",
+        "content": "<p>Please complete our online product registration to earn an additional 6-month warranty protection. The product registration process is important to us, as it helps us identify when your product was manufactured, which in turn can help us improve future products and offerings.<\/p><p>You can find your warranty registration number in the instruction manual provided with your product.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1681252901967085da": {
+      "type": "apps",
+      "blocks": {
+        "85a023a4-43ed-4ba7-b984-ed8946ec7fa9": {
+          "type": "shopify:\/\/apps\/acerill-form-builder\/blocks\/custom-form\/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "85a023a4-43ed-4ba7-b984-ed8946ec7fa9"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": false
+      }
+    },
+    "066f4841-7dc4-42f4-bba5-11adb4c11905": {
+      "type": "rich-text",
+      "custom_css": [
+        "h3 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3><strong>WARRANTY & RETURN POLICY<\/strong><\/h3><p>The RocketFire has been carefully built with quality but sometimes things go wrong.  We provide the warranty and return policy below.<\/p><h3><span style=\"text-decoration:underline\">LIMITED 6-MONTH WARRANTY<\/span><\/h3><p>RocketFire warrants to the original owner that its products will be free from defects in workmanship and materials for their applicable Warranty Period, subject to the conditions below.<br\/><br\/>• Warranty applies only to the original owner and does not extend to products that have been resold.<br\/>• Warranty applies only to residential or domestic use.<br\/>• Warranty is void if products have been altered in any manner.<br\/>• The warranty is subject to customer using the product in accordance with the instruction manual and guides.<br\/>• The product must have been purchased from an authorized dealer.<br\/><br\/>Scratches, normal wear and tear and the natural breakdown of colors and materials over extended time and use are not warranted.<\/p><p>If anything goes wrong with your RocketFire, and it seems to be something we did wrong, we will either help you to fix it (most issues can be fixed easily over email or the phone) or we'll refund or replace it if it seems like fixing it is not possible.<\/p><p>We calculate the expiration date of your RocketFire by either 6-months from your purchase date (proof of purchase required) or 6-months from when we first shipped the RocketFire from our warehouse. In other words, if your local retailer had it for 6-months on their store shelf and you did not provide proof of purchase, then we calculate the expiration date from when we shipped it to the retailer.  We use the latest date possible so it is best for you to register when you make your purchase. If you purchased from the RocketFire site, then we know when we shipped the RocketFire to you and the 6-month countdown begins at that point.  <\/p><p>We can only help you if you help us. So, don't forget to register your RocketFire right away!<\/p><p>We may make changes to products and designs in the time you purchased your product and submitted a warranty claim. Any product still under its applicable warranty that cannot be replaced with an identical product will be replaced with an equal model.<\/p><h3><span style=\"text-decoration:underline\"><strong>RETURN POLICY<\/strong><\/span><\/h3><h4><strong>Holiday Season Returns<\/strong><\/h4><p>Orders placed between November 1st and December 31st can be returned up to January 31st and you will be refunded for the full cost of the product.<\/p><p><strong>Standard Returns (orders placed between Jan 1 and Oct 31)<\/strong><\/p><p>Orders can be returned to us for any reason within 30 days of your date of purchase.  You will be refunded for the full cost of the product.<\/p><p>To start a return, you can contact us at <a href=\"mailto:info@rocketfiretorch.com\">info@rocketfiretorch.com<\/a>. Please note that returns will need to be sent to the following address:<\/p><p><strong>Returns Address (please confirm by email before returning)<\/strong><\/p><p>GLS c\/o Rocketfire, 2525 Whilden Drive, Durham, NC 27713<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2f04775f-b2b6-4e3b-805e-56752a807e16",
+    "fe5c5256-78c7-4e10-878f-92cb98ebf94f",
+    "1681252901967085da",
+    "066f4841-7dc4-42f4-bba5-11adb4c11905"
+  ]
+}

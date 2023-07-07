@@ -1,0 +1,370 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "fe90eb62-aeb3-40ef-b824-2d1cc9bfb3d6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<a class=\"klaviyo-bis-trigger\" href=\"#\">Notify Me When Available<\/a>"
+          }
+        },
+        "5af63751-bfca-4488-bf83-8199f26fa01a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🔥 <a href=\"\/pages\/shipping-returns\" title=\"Shipping & Returns\"><strong>30-Day Money Back Guarantee<\/strong><\/a><\/p>"
+          }
+        },
+        "afa379f6-5dd2-4460-81e1-1774367c6049": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>RocketFire was created with 6 years of safety and design testing and features a high-quality design using stainless steel, brass and carbon fiber.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "fe90eb62-aeb3-40ef-b824-2d1cc9bfb3d6",
+        "5af63751-bfca-4488-bf83-8199f26fa01a",
+        "afa379f6-5dd2-4460-81e1-1774367c6049"
+      ],
+      "custom_css": [
+        "#AddToCart {border: 2px solid #000000 !important; background: transparent; color: #000000;}"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": true,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "94d2a6b1-93dd-4898-964b-ba0a3406861b": {
+          "type": "content",
+          "settings": {
+            "title": "FEATURES",
+            "content": "<ul><li>25,000 BTUs, 2000 degrees of heat, all in seconds<\/li><li>60-degree tri-flame spread<\/li><li>UL Safety Certified<\/li><li>Cordless design<\/li><li>Uses standard CGA600 propane or MAP\/PRO gas canisters (found at any local hardware store)<\/li><li>50-70 lights per canister<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "21c500a9-dfa7-45ea-ad1e-88d2cf05774b": {
+          "type": "content",
+          "settings": {
+            "title": "30-Day Money Back Guarantee",
+            "content": "<p>Need to get it in your hands to test it? No problem! We offer a 30-day money back guarantee. <\/p><p>If you’re not impressed with the RocketFire or feel like you’ve found better, simply return it and we’ll give you your money back.<\/p><p>Already purchased a torch? Reach out to us <a href=\"\/pages\/contact\" title=\"Contact\">here<\/a>.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "94d2a6b1-93dd-4898-964b-ba0a3406861b",
+        "21c500a9-dfa7-45ea-ad1e-88d2cf05774b"
+      ],
+      "custom_css": [
+        "button {color: #000000; text-decoration-color: #f05826;}",
+        "h2 {font-size: 40px;}"
+      ],
+      "settings": {}
+    },
+    "867409ef-74c6-4a69-811c-19e0e16c2745": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=zx6DnBE_rX4",
+        "image": "shopify:\/\/shop_images\/0002.jpg",
+        "background_type": "full_width",
+        "video_size": "small",
+        "autoplay": false,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "168124631205fe6729": {
+      "type": "apps",
+      "blocks": {
+        "446d8725-6791-4646-a33e-881f407cd984": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "446d8725-6791-4646-a33e-881f407cd984"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": false
+      }
+    },
+    "c341072e-1b79-45da-b67c-47b349f1a18b": {
+      "type": "multi-column",
+      "blocks": {
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Premium_Design_50c8784c-96f1-452d-a994-956d74496900.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Premium Design",
+            "content": "<p>Made with premium, high-quality materials like stainless steel, brass and aluminum alloy.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tri_Flame_Cone.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Patented Tri-Flame Cone",
+            "content": "<p>The tri-flame cone offers an even flame distribution, allowing it to light faster and consistently.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flexible_Fuel.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Flexible Fuel Options",
+            "content": "<p>Easily attach any standard propane or MAP\/PRO gas canister, both of which can be found at your local hardware store. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "5b9a985c-033b-452e-a18e-4ecbab940e29": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cost_Effective.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Cost-Effective",
+            "content": "<p>Get 50-70 lights off of a single canister. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Portable.png",
+            "image_width": 37,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Portable",
+            "content": "<p>Easily bring your torch to your next BBQ hangout or camping trip thanks to its cordless design.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-1",
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-0",
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-3",
+        "5b9a985c-033b-452e-a18e-4ecbab940e29",
+        "template--18865011196185__c341072e-1b79-45da-b67c-47b349f1a18b-168321776869a2d646-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "The ultimate game changer",
+        "content": "<p>It can take logs, electric starters, and chimneys anywhere from 12-14 minutes to ignite and keep a steady fire going. Why wait that long?<\/p><p>With the RocketFire you can light any charcoal or wood pile in seconds. No matches, kindling or liquids required. <\/p><p>It’s the perfect companion and ultimate game changer for any grill, firepits, smokers, campfires, or fireplace. <\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "9b086f07-eb98-4815-8a66-2e0dedfbfe94": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video": "shopify:\/\/files\/videos\/Blasting fire at 2000°F (1)_f8bfbd23-aba1-4bd9-b5c0-0da5621727c3.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "background_type": "full_width",
+        "video_size": "small",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3be79ff7-8d89-4498-9833-95d31124e84d": {
+      "type": "logo-list",
+      "blocks": {
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/dyna-glo-vector-logo.png",
+            "link": ""
+          }
+        },
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/logo.png",
+            "link": ""
+          }
+        },
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/primo-logo-resized.png",
+            "link": ""
+          }
+        },
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/15-KJO-Logo_Horizontal-1024x138-smaller_1024x_-_Copy.png",
+            "link": ""
+          }
+        },
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/download.png",
+            "link": ""
+          }
+        },
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/big-green-egg_-_Copy.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-0",
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-1",
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-2",
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-3",
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-4",
+        "template--18865011196185__3be79ff7-8d89-4498-9833-95d31124e84d-1683218197f630ff98-5"
+      ],
+      "custom_css": [
+        "h3 {font-size: 40px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "RocketFire™ is perfect for lighting up your...",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "9f1c0d5f-728d-4ac7-ae4b-175963319b06": {
+      "type": "custom-liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "867409ef-74c6-4a69-811c-19e0e16c2745",
+    "168124631205fe6729",
+    "c341072e-1b79-45da-b67c-47b349f1a18b",
+    "product-recommendations",
+    "9b086f07-eb98-4815-8a66-2e0dedfbfe94",
+    "3be79ff7-8d89-4498-9833-95d31124e84d",
+    "9f1c0d5f-728d-4ac7-ae4b-175963319b06"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "56f1e717-08bc-4f5d-b5fd-c8552ba72eac": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18594035204377__56f1e717-08bc-4f5d-b5fd-c8552ba72eac-1681243387a07c85f8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rocketfire_studio_shot_21.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "INTRODUCING ROCKETFIRE",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--18594035204377__56f1e717-08bc-4f5d-b5fd-c8552ba72eac-1681243387a07c85f8-0"
+      ],
+      "settings": {
+        "section_height": "small",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "3bd9ead3-60c6-4454-a3e1-810b4ecf6a53": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--18594035204377__3bd9ead3-60c6-4454-a3e1-810b4ecf6a53-168124525946147862-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18594035204377__3bd9ead3-60c6-4454-a3e1-810b4ecf6a53-168124525946147862-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 3,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "84dfff6a-e2ab-470e-a575-d209b6a05bed": {
+      "type": "rich-text",
+      "custom_css": [
+        "h2 {font-family: Fjalla One; font-size: 24px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "We’ve spent years developing the RocketFire™ torch.",
+        "content": "<h2>We wanted it to be special. We wanted a ton of power. We wanted an ergonomic balance and ease of use, while also being safe.<\/h2>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f87e726b-fca0-483f-879d-c12255ef13f9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/RocketFire-Product-Specs-2021.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "boxed",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "1681245046f1826f11": {
+      "type": "apps",
+      "blocks": {
+        "69f4417e-cc1f-43ad-ac51-1ffb714a0cc3": {
+          "type": "shopify:\/\/apps\/xo-gallery\/blocks\/xo-gallery\/e61dfbaa-1a75-4e4e-bffc-324f17325251",
+          "settings": {
+            "type": "gallery",
+            "id": 1
+          }
+        }
+      },
+      "block_order": [
+        "69f4417e-cc1f-43ad-ac51-1ffb714a0cc3"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "56f1e717-08bc-4f5d-b5fd-c8552ba72eac",
+    "3bd9ead3-60c6-4454-a3e1-810b4ecf6a53",
+    "84dfff6a-e2ab-470e-a575-d209b6a05bed",
+    "f87e726b-fca0-483f-879d-c12255ef13f9",
+    "1681245046f1826f11"
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "sections": {
+    "1581b52d-6997-454c-ab67-091992ebeeba": {
+      "type": "video",
+      "custom_css": [],
+      "settings": {
+        "subheading": "Meet the fastest fire starter on the planet",
+        "title": "More fun than matches",
+        "video": "shopify:\/\/files\/videos\/Rocket Fire Banner.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "background_type": "full_width",
+        "video_size": "medium",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff"
+      }
+    },
+    "e4fb4fac-b85d-4c12-8a9f-dc691cfcd755": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-like",
+            "custom_icon_width": 50,
+            "title": "Premium, High Quality Design",
+            "content": "<p>Built with high-quality, long lasting materials like stainless steel, brass, and aluminum alloy.<\/p>"
+          }
+        },
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-warranty",
+            "custom_icon_width": 50,
+            "title": "UL Safety Certified",
+            "content": "<p>Annually tested to ensure a safe, efficient light each and every time.<\/p>"
+          }
+        },
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "custom_icon_width": 50,
+            "title": "30-Day Money Back Guarantee",
+            "content": "<p>Not impressed? No problem. Send it back within 30 days and we'll refund you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-2",
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-0",
+        "template--18865010835737__e4fb4fac-b85d-4c12-8a9f-dc691cfcd755-16831249662f2ee1e6-1"
+      ],
+      "settings": {
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3fa2a6bc-7b36-453c-9697-6d07406c50e8": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Reclaim your time, in seconds",
+        "content": "<p>Paper, logs, starter squares, or accelerant can all light a good enough fire, but what about a great one?<\/p><p>At Rocket Fire Torch, we believe that lighting a fire should never get in the way of taking time for yourself or spending time with others.<\/p><p>There’s a better way. This is it.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0b969a33-830e-4c0f-a56a-8aee9a4d37ae": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "size_chart_page": ""
+          }
+        },
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "b73e7f3c-4df7-44a8-9b7a-9d3726f8b3b5": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<a class=\"klaviyo-bis-trigger\" href=\"#\">Notify Me When Available<\/a>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-0",
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-1",
+        "template--18865010835737__0b969a33-830e-4c0f-a56a-8aee9a4d37ae-168364691886fa37d8-2",
+        "b73e7f3c-4df7-44a8-9b7a-9d3726f8b3b5"
+      ],
+      "settings": {
+        "product": "the-rocketfire-torch",
+        "subheading": "",
+        "title": "",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0d3438f7-d69a-4407-8d2b-48edb2398018": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=zx6DnBE_rX4",
+        "image": "shopify:\/\/shop_images\/0002.jpg",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": false,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff"
+      }
+    },
+    "8094b2ab-fc21-4212-89cc-6fa80b73998b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Real Reviews from Real Customers",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16836453990c7ab73e": {
+      "type": "apps",
+      "blocks": {
+        "846674e7-8747-4f37-b47a-0d46f8759d43": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "#161616",
+            "color_star": "#f65526",
+            "color_text": "#161616",
+            "color_link": "#161616",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "limit_words": 30,
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "846674e7-8747-4f37-b47a-0d46f8759d43"
+      ],
+      "custom_css": [
+        "div {background-color: #f5f5f5;}"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": false
+      }
+    },
+    "bf8459b4-333f-4b5a-9cd9-cbe43330d6d0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18865010835737__bf8459b4-333f-4b5a-9cd9-cbe43330d6d0-1683129986e1125064-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Make_every_second_count_1.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Make every second count",
+            "content": "<p>Whether you’re setting up to grill your favorite cut of meat or getting ready to sit with family around the backyard firepit, the last thing you need is to struggle with lighting a fire.<\/p><p>That’s why we created the RocketFire propane torch. 2,000 degree heat, 25,000 MTUs, and a tri-flame tip, you have a fire in seconds. No matches, kindling, or liquids required. <\/p><p>Lighting a fire has never been this fast and easy.<\/p>",
+            "button_text": "Get it Now",
+            "button_link": "shopify:\/\/products\/the-rocketfire-torch"
+          }
+        }
+      },
+      "block_order": [
+        "template--18865010835737__bf8459b4-333f-4b5a-9cd9-cbe43330d6d0-1683129986e1125064-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f3e842c9-04fa-4051-964d-9cc28af63d77": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "p {font-size: 17px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Our_Story.png",
+        "subheading": "",
+        "title": "The search for a better way",
+        "content": "<p>How the struggle of lighting a <strong>good<\/strong> fire led us to design the perfect tool for lighting a <strong>great<\/strong> one.<\/p>",
+        "button_text": "Read Our Story",
+        "button_link": "shopify:\/\/pages\/our-story",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1e1cf8e8-3b05-4d78-a09e-04f93511e49a": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "tips-tricks",
+        "subheading": "Stay up-to-date on",
+        "title": "Our best tips & tricks",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b1d8fd2f-78da-4e69-b2d0-750f37e72dfb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18865010835737__b1d8fd2f-78da-4e69-b2d0-750f37e72dfb-1683129986e1125064-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Make_every_second_count.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "The life of the party",
+            "content": "<p>Our torch was designed to fit effortlessly with your outside world. Easily attach it to any standard propane or MAP\/PRO gas canister and take it along with you on your next BBQ hangout or overnight camping trip. <\/p><p>No finicky cords. No overcomplicated instructions. Just push the button and hear the rocket roar.<\/p><p>We guarantee you’ll be the envy of all your friends.<\/p>",
+            "button_text": "Grab it now",
+            "button_link": "shopify:\/\/products\/the-rocketfire-torch"
+          }
+        }
+      },
+      "block_order": [
+        "template--18865010835737__b1d8fd2f-78da-4e69-b2d0-750f37e72dfb-1683129986e1125064-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ccc7d7e6-e252-4562-9741-d56f6670d8c0": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--18865010835737__ccc7d7e6-e252-4562-9741-d56f6670d8c0-16831327476b06d496-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rocket_Fire_Feature_Highlight-min.png",
+            "dot_type": "normal",
+            "product_1": "the-rocketfire-torch",
+            "product_1_horizontal_position": 75,
+            "product_1_vertical_position": 56,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 46,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 62,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "template--18865010835737__ccc7d7e6-e252-4562-9741-d56f6670d8c0-16831327476b06d496-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "Shop the looks"
+      }
+    },
+    "ec0c318a-50d3-48ff-8fb2-957a7f1c5132": {
+      "type": "logo-list",
+      "blocks": {
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/dyna-glo-vector-logo.png",
+            "link": ""
+          }
+        },
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/logo.png",
+            "link": ""
+          }
+        },
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/primo-logo-resized.png",
+            "link": ""
+          }
+        },
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/15-KJO-Logo_Horizontal-1024x138-smaller_1024x_-_Copy.png",
+            "link": ""
+          }
+        },
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/download.png",
+            "link": ""
+          }
+        },
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/big-green-egg_-_Copy.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-0",
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-1",
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-2",
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-3",
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-4",
+        "template--18440563556633__ec0c318a-50d3-48ff-8fb2-957a7f1c5132-1681243946695afd7e-5"
+      ],
+      "custom_css": [],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "RocketFire™ is perfect for lighting your...",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "0bbaabe6-1c9a-4822-afb6-02a328fde93e": {
+      "type": "custom-liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "1581b52d-6997-454c-ab67-091992ebeeba",
+    "e4fb4fac-b85d-4c12-8a9f-dc691cfcd755",
+    "3fa2a6bc-7b36-453c-9697-6d07406c50e8",
+    "0b969a33-830e-4c0f-a56a-8aee9a4d37ae",
+    "0d3438f7-d69a-4407-8d2b-48edb2398018",
+    "8094b2ab-fc21-4212-89cc-6fa80b73998b",
+    "16836453990c7ab73e",
+    "bf8459b4-333f-4b5a-9cd9-cbe43330d6d0",
+    "f3e842c9-04fa-4051-964d-9cc28af63d77",
+    "1e1cf8e8-3b05-4d78-a09e-04f93511e49a",
+    "b1d8fd2f-78da-4e69-b2d0-750f37e72dfb",
+    "ccc7d7e6-e252-4562-9741-d56f6670d8c0",
+    "ec0c318a-50d3-48ff-8fb2-957a7f1c5132",
+    "0bbaabe6-1c9a-4822-afb6-02a328fde93e"
+  ]
+}

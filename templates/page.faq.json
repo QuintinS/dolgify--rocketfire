@@ -1,0 +1,141 @@
+{
+  "sections": {
+    "b96bca98-dc7f-45e4-b143-a8f7e45053d6": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/Our_Story_2.png",
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "d1a50ba7-afd2-4fb3-a81d-1e55091a219f": {
+          "type": "question",
+          "settings": {
+            "title": "Is the RocketFire safe?",
+            "answer": "<p>The RocketFire has been through 6 years of development and safety testing and received a UL 147 standard safety certification in 2022.  It’s safe!<\/p>"
+          }
+        },
+        "186574ed-35e2-4b7b-aba8-dfc7697c44ce": {
+          "type": "question",
+          "settings": {
+            "title": "Why is the RocketFire better than other starters?",
+            "answer": "<p>The RocketFire uses a patented tri-flame stainless steel tip to spread 2000°F torch-fire within the charcoal\/wood pile. No other starter does this.<\/p>"
+          }
+        },
+        "983d2521-9665-4aa4-aa6c-931de50604fc": {
+          "type": "question",
+          "settings": {
+            "title": "What kind of fuel can I use?",
+            "answer": "<p>The RocketFire has been UL tested with propane and Map-pro gas.<\/p>"
+          }
+        },
+        "7e1bb5c1-b5a9-4170-862b-7b3b88dda199": {
+          "type": "question",
+          "settings": {
+            "title": "What fuel is better to use?",
+            "answer": "<p>Propane is more accessible and less expensive but Map-pro gas burns hotter and starts your fire quicker.<\/p>"
+          }
+        },
+        "c2721919-4e28-4ea7-9d4f-6593968a9663": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I buy the fuel?",
+            "answer": "<p>You can purchase propane and Map-pro gas at your local hardware store, Ace, Lowe’s, Home Depot And other department stores.<\/p>"
+          }
+        },
+        "b1bde63b-8a7a-49e0-8fa7-f65cc3e8659d": {
+          "type": "question",
+          "settings": {
+            "title": "Does the RocketFire work in cold weather?",
+            "answer": "<p>The RocketFire will perform well in cold weather as long as the fuel has been stored in a warm environment.  If the fuel is cold, performance decreases significantly.<\/p>"
+          }
+        },
+        "153b46e1-3087-4af3-b1f8-27d7b2dc2ba2": {
+          "type": "question",
+          "settings": {
+            "title": "What’s the best way to light charcoal with the RocketFire?",
+            "answer": "<p>We have found that leaving a hole in the middle of the charcoal pile (the donut method) and sticking the tri-flame tip in that hole to light is the fastest method.<\/p>"
+          }
+        },
+        "fb95113c-3b6c-40b0-9533-6fecc9395140": {
+          "type": "question",
+          "settings": {
+            "title": "Will the RocketFire damage my kamado style grill?",
+            "answer": "<p>We have tested the RocketFire on Big Green Egg\/Primo\/Kamado Joe grills for 6 years with no issues.<\/p>"
+          }
+        },
+        "d494bcf3-91b8-4f9f-b859-bec3ea1201cb": {
+          "type": "question",
+          "settings": {
+            "title": "Why do the flames on my RocketFire flicker or blow out when I’m lighting my charcoal grill?",
+            "answer": "<p>The RocketFire must have oxygen to work properly. Please open up all vents to allow airflow when lighting your grill for best performance.  You can also lower the fuel flow for better results.<\/p>"
+          }
+        },
+        "a2588bea-6916-4c58-af6b-cefca69e228a": {
+          "type": "question",
+          "settings": {
+            "title": "Is the RocketFire safe to sear sous vide meat or finish crème brûlée?",
+            "answer": "<p>Absolutely. We have many customers that use the straight flame for this purpose.<\/p>"
+          }
+        },
+        "143919d1-6fa6-4dd1-b0f0-c5e2d8e55073": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact customer support?",
+            "answer": "<p>Please contact us <a href=\"https:\/\/rocketfiretorch.com\/pages\/contact\" title=\"https:\/\/rocketfiretorch.com\/pages\/contact\">here<\/a> and we'll get back to you shortly!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d1a50ba7-afd2-4fb3-a81d-1e55091a219f",
+        "186574ed-35e2-4b7b-aba8-dfc7697c44ce",
+        "983d2521-9665-4aa4-aa6c-931de50604fc",
+        "7e1bb5c1-b5a9-4170-862b-7b3b88dda199",
+        "c2721919-4e28-4ea7-9d4f-6593968a9663",
+        "b1bde63b-8a7a-49e0-8fa7-f65cc3e8659d",
+        "153b46e1-3087-4af3-b1f8-27d7b2dc2ba2",
+        "fb95113c-3b6c-40b0-9533-6fecc9395140",
+        "d494bcf3-91b8-4f9f-b859-bec3ea1201cb",
+        "a2588bea-6916-4c58-af6b-cefca69e228a",
+        "143919d1-6fa6-4dd1-b0f0-c5e2d8e55073"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "b96bca98-dc7f-45e4-b143-a8f7e45053d6",
+    "main",
+    "faq"
+  ]
+}
